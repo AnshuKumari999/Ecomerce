@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http:///api/products",
+      "request": "launch",
+      "url": "http:///api/products"
+    }
+  ]
+}
